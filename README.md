@@ -6,8 +6,7 @@ This repository contains an implementation of the groundbreaking paper "Attentio
 ## Overview
 The Transformer architecture, introduced in the paper, replaces traditional recurrent and convolutional networks with a self-attention mechanism, enabling the model to capture long-range dependencies and improve parallelization.
 
-This implementation provides a clean and modular codebase for understanding and experimenting with the Transformer model. The code is organized into components such as encoder, decoder, attention mechanisms, and training pipelines.
-
+This implementation provides an intuitive approach to understanding and experimenting with the Transformer model. The code is organized into an encoder, decoder, attention mechanisms, and training pipelines.
 
 
 ## Requirements
