@@ -11,7 +11,9 @@ This implementation provides an intuitive approach to understanding and experime
 
 ## Requirements
 TensorFlow 
+
 NumPy
+
 Pandas
 
 
