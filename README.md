@@ -3,14 +3,14 @@
 This repository contains an implementation of the groundbreaking paper "Attention is All You Need" in TensorFlow. The paper introduces the Transformer architecture, which has become a cornerstone in natural language processing and sequence-to-sequence tasks.
 
 
-### Overview
+## Overview
 The Transformer architecture, introduced in the paper, replaces traditional recurrent and convolutional networks with a self-attention mechanism, enabling the model to capture long-range dependencies and improve parallelization.
 
 This implementation provides a clean and modular codebase for understanding and experimenting with the Transformer model. The code is organized into components such as encoder, decoder, attention mechanisms, and training pipelines.
 
 
 
-### Requirements
+## Requirements
 TensorFlow 
 NumPy
 Pandas
